@@ -8,6 +8,8 @@ An attack consists of an Attacker and a Defender rolling dice, applying effects,
 
 The simulation allows the user to find the average amount of damage dealt by simulating an attack many thousands of times.
 
+I have included various paramaters to allow for simulating common conditions and special abilities, but this certainly doesn't cover all possibilities within the game.
+
 ## Parameters
 
 - The number of dice being rolled initially.
