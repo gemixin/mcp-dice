@@ -31,8 +31,8 @@ I have included various paramaters to allow for simulating common conditions and
 
 ## Usage
 
-I am working on a web UI using Plotly and Dash to make this accessible to non-coders, but in the meantime, the source code can be used to run simulations using the examples.py file.
+The source code can be used to run simulations using the examples.py file.
 
- ![Command line screenshot](/screenshots/cmd.jpg)
+![Command line screenshot](/screenshots/cmd.jpg)
 
 ![Plotly plot screenshot](/screenshots/plot.jpg)
